@@ -4,7 +4,7 @@ My first iOS app with swift, created in 2021.
 
 ## View type login 📲
 
-![View Home](https://github.com/MALPV/App-FirstApp/blob/master/screenshots/ .png)
+![View Home](https://github.com/MALPV/App-FirstApp/blob/master/screenshots/login.png)
 
 ## View type home 📲
 
